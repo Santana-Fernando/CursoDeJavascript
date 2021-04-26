@@ -1,4 +1,5 @@
-
+//var b = 4
+let b = 5
 const a = 55
 
-console.log(a + 5)
+console.log(b)
